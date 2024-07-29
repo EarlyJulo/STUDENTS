@@ -1,0 +1,26 @@
+body {
+    padding: 50px;
+    background-color: whitesmoke;
+}
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    box-shadow: 0 30px 20px rgba(22, 22, 22, 0.1);
+    padding: 20px;
+    background-color: #241749; /* Optional: Add background color for better visibility */
+    border: 2px solid #007bff;
+    border-radius: 15px;
+}
+.form-group {
+    margin-bottom: 30px;
+}
+.highlight-text {
+    color: yellow;
+}
+.form-container {
+    border: 2px solid #007bff;
+    border-radius: 10px;
+    padding: 20px;
+    margin-top: 20px;
+    background-color: #f8f9fa;
+}
